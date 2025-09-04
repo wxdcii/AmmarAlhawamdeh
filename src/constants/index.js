@@ -262,7 +262,7 @@ const projects = [
       { name: "TypeScript", color: "orange-text-gradient" },
     ],
     image: me,
-    hosted_link: "#",
+    hosted_link: "https://portofolio-swart-pi.vercel.app/",
   },
   {
     name: "Eazy Talk - MOBILE APP",
